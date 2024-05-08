@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Joy Nwabuikwu
 
 ## About Me ℹ️
-I'm a passionate **Data Analyst** with a knack for turning data into actionable insights. With a keen eye for detail and a love for problem-solving, I thrive on uncovering hidden patterns and trends within datasets to drive informed decision-making. When I'm not diving into data, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen!
+I'm a passionate **Data Analyst** with a knack for turning data into actionable insights. With a keen eye for detail and a love for problem-solving, I thrive on uncovering hidden patterns and trends within datasets to drive informed decision-making.
 
 ## Connect with Me 🌐
 - **LinkedIn:** [Joy Nwabuikwu](https://www.linkedin.com/in/joy-nwabuikwu-9bb970a9/)
