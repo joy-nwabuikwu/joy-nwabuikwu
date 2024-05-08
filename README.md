@@ -10,16 +10,13 @@ I'm a passionate **Data Analyst** with a knack for turning data into actionable 
 
 ## Skills 🛠️
 - Data Analysis 📊
-- Python 🐍
 - SQL 💻
 - Data Visualization 📈
 - Statistical Analysis 📉
 
 ## Projects 🚀
-Here are a few highlights of my recent projects:
-- [Sales Forecasting Dashboard](https://github.com/joyanalytics/sales-forecasting-dashboard): A web-based dashboard for predicting sales trends using machine learning techniques.
-- [Customer Segmentation Analysis](https://github.com/joyanalytics/customer-segmentation-analysis): An in-depth analysis of customer behavior and segmentation using clustering algorithms.
-- [Sentiment Analysis of Twitter Data](https://github.com/joyanalytics/sentiment-analysis-twitter): Analyzing public sentiment towards a specific topic using natural language processing techniques.
+Here's my portfolio website:
+- [joynwabuikwu.io](https://joynwabuikwu.io): Showcase of my data analysis projects and professional experience.
 
 ## Let's Connect! 🤝
 I'm always excited to connect with fellow data enthusiasts, collaborate on projects, or simply chat about all things data-related! Feel free to reach out to me via email or connect with me on LinkedIn. Let's make data-driven decisions together!
