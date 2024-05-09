@@ -5,7 +5,7 @@ I'm a passionate **Data Analyst** with a knack for turning data into actionable 
 
 ## Connect with Me 🌐
 - **LinkedIn:** [Joy Nwabuikwu](https://www.linkedin.com/in/joy-nwabuikwu-9bb970a9/)
-- **Portfolio Website:** [joy-nwabuikwu.github.io/joynwabuikwu.io/index.html](https://joynwabuikwu.github.io/joynwabuikwu.io/index.html)
+- **Portfolio Website:** [joy-nwabuikwu.github.io/joynwabuikwu.io/index.html](https://joy-nwabuikwu.github.io/joynwabuikwu.io/index.html)
 - **Email:** Joynwabuikwu@gmail.com
 
 ## Skills 🛠️
