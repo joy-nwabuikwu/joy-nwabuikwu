@@ -3,10 +3,6 @@
 ## About Me ℹ️
 I'm a passionate **Data Analyst** with a knack for turning data into actionable insights. With a keen eye for detail and a love for problem-solving, I thrive on uncovering hidden patterns and trends within datasets to drive informed decision-making.
 
-## Connect with Me 🌐
-- **[LinkedIn](https://www.linkedin.com/in/joy-nwabuikwu-9bb970a9/)**
-- **[Portfolio Website](https://joy-nwabuikwu.github.io/joynwabuikwu.io/index.html)**
-- **[Email](mailto:Joynwabuikwu@gmail.com)**
 
 ## Skills 🛠️
 - Data Analysis 📊
